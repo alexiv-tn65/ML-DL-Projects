@@ -1,0 +1,4 @@
+task: sentiment-analysis # задает тип задачи, которую будет выполнять модель
+# This is the cointegrated/rubert-tiny model fine-tuned for classification of sentiment for short Russian texts. 
+# https://huggingface.co/cointegrated/rubert-tiny-sentiment-balanced
+model: cointegrated/rubert-tiny-sentiment-balanced # модель для задачи анализа тональности RuBERT (Russian BERT) 
