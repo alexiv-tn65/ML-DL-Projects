@@ -2,4 +2,4 @@
 
 ## Description
 
-Some experimental and educational developments at ITMO, DLS school and etc.
+Some experimental and educational developments at ITMO, DLS school, hackathons and etc.
